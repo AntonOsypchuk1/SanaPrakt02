@@ -10,4 +10,4 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] BitBUcket
-@AntonOsypchuk1
+Виконав: Anton Osypchuk
